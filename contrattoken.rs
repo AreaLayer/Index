@@ -3,8 +3,8 @@ Schema {
     root_id: none!(),
     genesis: GenesisSchema {
         metadata: type_map! {
-            FieldType::Ticker => BD
-            FieldType::Name => Bond,
+            FieldType::Ticker => Index
+            FieldType::Name => INX,
             FieldType::ContractText => NoneOrOnce,
             FieldType::Precision => Once,
             FieldType::Timestamp => 2,
