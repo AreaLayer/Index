@@ -7,8 +7,8 @@ Schema {
             FieldType::Name => INX,
             FieldType::ContractText => NoneOrOnce,
             FieldType::Precision => Once,
-            FieldType::Timestamp => 2,
-            FieldType::IssuedSupply => 2000000
+            FieldType::Timestamp => 64,
+            FieldType::IssuedSupply => 3000000
         },
         owned_rights: type_map! {
             OwnedRightsType::Inflation => NoneOrMore,
