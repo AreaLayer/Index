@@ -9,8 +9,14 @@ This product will be a token Index backed by Bitcoin and ETH (synthetic). He can
 
 *Speculation;
 
-*Borrow.
+*Borrow;
+
+*Hold.
 
 # Running Node RGB
 
 Source: https://github.com/Layer2Labs/rgb-node/blob/master/README.md
+
+# Disclaimer
+
+This product is in development 
