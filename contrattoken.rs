@@ -214,4 +214,7 @@ Schema {
         }
     },
     public_right_types: none!(),
-}
+},
+  DataType::Assets=>Bitcoin
+  DataType:: Assets=> Ethereum{
+  format:StateFormat::APIData
