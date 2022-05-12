@@ -217,4 +217,4 @@ Schema {
 },
   DataType::Assets=>Bitcoin
   DataType:: Assets=> Ethereum{
-  format:StateFormat::APIData
+  format:StateFormat::APIData(coingecko.com/ethereum)
