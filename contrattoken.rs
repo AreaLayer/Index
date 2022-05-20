@@ -217,4 +217,4 @@ Schema {
 },
   DataType::Assets=>Bitcoin
   DataType:: Assets=> Ethereum{
-  format:StateFormat::APIData(coingecko.com/ethereum)
+  format:StateFormat::APIData('https://api.coingecko.com/api/v3/simple/price?ids=ethereum%2Flist&vs_currencies=vs_bitcoin')
