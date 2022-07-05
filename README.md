@@ -19,4 +19,6 @@ Source: https://github.com/Layer2Labs/rgb-node/blob/master/README.md
 
 # Disclaimer
 
-This product is in development 
+This product is in development and isn't security token.
+
+
