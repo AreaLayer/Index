@@ -11,7 +11,9 @@ This product will be a token Index backed by Bitcoin and ETH (synthetic). He can
 
 *Borrow;
 
-*Hold.
+*Hold;
+
+*DeFi on RGB network.
 
 # Running Node RGB
 
